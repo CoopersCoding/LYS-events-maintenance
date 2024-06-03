@@ -1,1 +1,1 @@
-# LYS-events-maintenance
+# LYS-events-landing
